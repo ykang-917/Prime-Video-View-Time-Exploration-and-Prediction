@@ -1,5 +1,4 @@
-# video-view-time-prediction
-Prime video view time exploration and prediction
+# Prime video view time exploration and prediction
 
 1. Worked on Amazon Prime data set and built a forecast model in Python to predict video view time
 2. Performed exploratory data analysis and preprocessed raw sales and product data via dealing with missing values, categorical feature encoding and feature scaling.
